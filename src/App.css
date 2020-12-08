@@ -23,6 +23,14 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.h5{
+  padding: 16px;
+  margin-left: 5px;
+}
+
+.p{
+  padding: 11;
+}
 
 .App-link {
   color: #61dafb;
